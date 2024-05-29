@@ -1,0 +1,1 @@
+A website that serves as a calculator, with UI that mimics a real calculator
