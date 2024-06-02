@@ -1,1 +1,5 @@
-A website that serves as a calculator, with UI that mimics a real calculator
+Calculator Doodle
+
+A website with a simple calculator with a "doodle" theme,
+the calculator accepts 2 inputs and returns a number rounded
+to 3 decimal places. It also has keyboard input enabled! 
