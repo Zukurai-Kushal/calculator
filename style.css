@@ -18,6 +18,8 @@ body{
   min-height: 100vh;
   margin: 0;
   font-size: 8.5rem;
+  background-image: url(./wallpaper.png);
+  background-blend-mode:overlay;
 }
 
 .amatic-sc-regular {
