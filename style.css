@@ -123,3 +123,18 @@ button:active, .keydown-button{
   border-bottom-right-radius: 225px 15px;
   border-bottom-left-radius: 15px 255px;
 }
+
+.photo-credit{
+  position: absolute;
+  color: dimgray;
+  bottom: 20px;
+  font-size: 1.5rem;
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  & a{
+    color: inherit;
+  }
+  & a:hover{
+    color: black;
+  }
+}
